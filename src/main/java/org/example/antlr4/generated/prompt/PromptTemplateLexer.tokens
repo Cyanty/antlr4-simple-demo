@@ -1,0 +1,6 @@
+LBRACE=1
+RBRACE=2
+ID=3
+TEXT_CHUNK=4
+'{'=1
+'}'=2
